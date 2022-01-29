@@ -49,3 +49,8 @@ ex：111.22.11 :6
 vncserver -kill :6
 ```
 
+7 顯示所有vnc
+```
+pgrep vnc
+```
+
